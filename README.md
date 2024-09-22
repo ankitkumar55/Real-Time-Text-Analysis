@@ -39,3 +39,47 @@ To run this project, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/real-time-text-analysis-app.git
+
+
+2. **Navigate to the project folder:**
+
+  Once the repository is cloned, navigate to the project directory:
+
+  ```bash
+  cd real-time-text-analysis-app
+
+3. **Install dependencies:**
+
+ To install all the necessary dependencies, run:
+
+  ```bash
+  npm install
+
+4. **Running the App:**
+
+  To start the app in development mode, use the following command:
+
+   ```bash
+  npm start
+
+
+This will run the app on http://localhost:3000. The page will reload if you make any edits, and you will also see any lint errors in the console.
+
+
+### Build for Production
+
+  To build the app for production, run:
+
+  ```bash
+  npm run build
+
+ The build folder will contain optimized production-ready files. You can then deploy these files on any static hosting service, including GitHub Pages.
+
+
+### Technologies Used:
+ - React: Frontend library used for building the user interface.
+ - HTML/CSS: Used for structuring and styling the app.
+ - JavaScript (ES6): Logic for text analysis and replacement.
+
+### License
+ - This project is licensed under the MIT License - see the LICENSE file for details.
