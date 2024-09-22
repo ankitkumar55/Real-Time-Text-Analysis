@@ -68,10 +68,10 @@ To run this project, ensure you have the following installed:
 
 ### Build for Production
 
-  **To build the app for production, run:**
+ **To build the app for production, run:**
      
-      ```bash
-      npm run build
+    ```bash
+    npm run build
 
  The build folder will contain optimized production-ready files. You can then deploy these files on any static hosting service, including GitHub Pages.
 
