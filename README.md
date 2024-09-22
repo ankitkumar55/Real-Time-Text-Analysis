@@ -18,7 +18,7 @@ This is a React-based application that allows users to analyze text in real-time
 
 ## Demo
 
-You can try the app live on [GitHub Pages](https://your-username.github.io/real-time-text-analysis-app/).
+You can try the app live on [GitHub Pages](https://ankitkumar55.github.io/Real-Time-Text-Analysis/).
 
 ## Getting Started
 
