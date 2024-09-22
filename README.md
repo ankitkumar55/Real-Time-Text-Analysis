@@ -50,10 +50,11 @@ To run this project, ensure you have the following installed:
 
 3. **Install dependencies:**
 
- To install all the necessary dependencies, run:
+   To install all the necessary dependencies, run:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
+
 
 4. **Running the App:**
 
@@ -75,11 +76,10 @@ This will run the app on http://localhost:3000. The page will reload if you make
 
  The build folder will contain optimized production-ready files. You can then deploy these files on any static hosting service, including GitHub Pages.
 
-
-### Technologies Used:
+## Technologies Used:
  - React: Frontend library used for building the user interface.
  - HTML/CSS: Used for structuring and styling the app.
  - JavaScript (ES6): Logic for text analysis and replacement.
 
-### License
+## License
  - This project is licensed under the MIT License - see the LICENSE file for details.
