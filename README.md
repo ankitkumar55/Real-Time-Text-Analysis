@@ -43,23 +43,25 @@ To run this project, ensure you have the following installed:
 
 2. **Navigate to the project folder:**
 
-  Once the repository is cloned, navigate to the project directory:
+    Once the repository is cloned, navigate to the project directory:
 
-  cd real-time-text-analysis-app
+    ```bash
+    cd real-time-text-analysis-app
 
-3. **Install dependencies:**
+4. **Install dependencies:**
 
-   To install all the necessary dependencies, run:
+    To install all the necessary dependencies, run:
 
-   ```bash
-   npm install
+     ```bash
+     npm install
 
 
-4. **Running the App:**
+5. **Running the App:**
 
-  To start the app in development mode, use the following command:
+    To start the app in development mode, use the following command:
 
-  npm start
+    ```bash
+    npm start
 
   This will run the app on http://localhost:3000. The page will reload if you make any edits, and you will also see any lint errors in the console.
 
@@ -67,8 +69,8 @@ To run this project, ensure you have the following installed:
 ### Build for Production
 
   To build the app for production, run:
-
-  npm run build
+    ```bash
+    npm run build
 
  The build folder will contain optimized production-ready files. You can then deploy these files on any static hosting service, including GitHub Pages.
 
