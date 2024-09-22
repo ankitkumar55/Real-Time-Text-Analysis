@@ -1,0 +1,9 @@
+.statistics p {
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  .statistics p span {
+    font-size: large;
+    color: rgb(136, 33, 7); /* Change the color of the counts to green */
+  }
+  

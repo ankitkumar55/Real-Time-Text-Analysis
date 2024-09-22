@@ -1,0 +1,46 @@
+
+
+  .round{
+    border-bottom-right-radius:15px;
+    border-bottom-left-radius:15px;
+   -moz-border-radius-bottomright:15px;
+   -moz-border-radius-bottomleft:15px;
+   -webkit-border-bottom-right-radius:15px;
+   -webkit-border-bottom-left-radius:15px;
+
+    -moz-border-radius-topright:15px;
+    -moz-border-radius-topleft:15px;
+    -webkit-border-top-right-radius:15px;
+    -webkit-border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    border-top-left-radius:15px;
+    height: 4vh;
+    margin: 10px;
+     }
+
+     .form-control {
+        text-align: center; /* Center the text inside the input */
+      }
+
+      button {
+        background-color: rgb(224, 108, 224); /* Violet color */
+        color: white; /* Text color */
+        border: none; /* Remove default border */
+        border-radius: 5px; /* Rounded corners */
+        padding: 10px 20px; /* Padding around the text */
+        font-size: 16px; /* Font size */
+        cursor: pointer; /* Change cursor to pointer on hover */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        transition: background-color 0.3s, transform 0.2s; /* Smooth transition */
+      }
+      
+      button:hover {
+        background-color: #9b59b6; /* Darker violet on hover */
+        transform: scale(1.05); /* Slightly grow on hover */
+      }
+      
+      button:active {
+        transform: scale(0.95); /* Scale down when clicked */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Reduce shadow when pressed */
+      }
+      
